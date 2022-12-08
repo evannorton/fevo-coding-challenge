@@ -1,0 +1,9 @@
+Steps to run:
+
+1. Run `npm install`
+2. Run `tsc .\Solution.ts && node Solution.js accounts.json`
+
+Steps to run tests:
+
+1. Run `npm install`
+2. Run `npm test`
